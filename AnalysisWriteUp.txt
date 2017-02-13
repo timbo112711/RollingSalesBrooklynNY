@@ -1,0 +1,4 @@
+Analysis of Data
+----------------
+
+When looking at sale price and sale gross square feet, there is a big cluster of houses that have a relativly high price and have a average size sale gross square feet. There is also a relationship between homes sale price and homes gross square feet. There are more homes with a relativly high sales price that also have a low home gross sqare feet. Since there were outliers present in brooklyn homes sale prices, those said outliers were removed. With the outliers removed and the log transformed brooklyn home sale prcies and the log transformed brooklyn homes groos square feet plotted on a scatter plot, it shows a clearer picture that homes with a relativly high sales price also have a low home gross sqare feet.
